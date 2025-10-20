@@ -274,7 +274,8 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-Created as an AI-powered sentiment analysis portfolio project.
+TAHA BIKKI
+tahabikki00@gmail.com
 
 ---
 
