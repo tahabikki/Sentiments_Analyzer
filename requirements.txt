@@ -1,0 +1,5 @@
+flask
+openai
+flask_sqlalchemy
+pytesseract
+tf-keras
